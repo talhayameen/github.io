@@ -260,7 +260,7 @@ a:active {
 #portfolio .portfolio-item .portfolio-link {
     position: relative;
     display: block;
-    max-width: 400px;
+    max-width: 220px;
     margin: 0 auto;
     cursor: pointer;
 }
@@ -273,7 +273,7 @@ a:active {
     -moz-transition: all ease 0.5s;
     transition: all ease 0.5s;
     opacity: 0;
-    background: rgba(54, 160, 245, 0.73);
+    /* background: rgba(54, 160, 245, 0.73); */
 }
 
 #portfolio .portfolio-item .portfolio-link .caption-port:hover {
@@ -401,7 +401,7 @@ a:active {
 ======================================================*/
 
 #skills {
-    background-image: url("../img/bg-stats.jpg");
+    background-image: url("../img/bg.png");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
